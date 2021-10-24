@@ -224,7 +224,7 @@ ul{
     color: #fff;
     line-height: 2.5rem;
     padding: 2rem;
-    text-align: justify;
+    text-align: unset;
     font-size: 1.2rem;
 }
 
