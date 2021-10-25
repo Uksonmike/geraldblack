@@ -65,30 +65,25 @@
 
 .show{
     height: 500px;
-    background-image:url(/images/b2.jpg);
     background-size: contain;
     background-repeat: no-repeat;
 }
 .one{
-    background-image:url(/images/b2.jpg);
     background-size: cover;
     background-repeat: no-repeat;
 }
 .two{
-    background-image:url(/images/b3.jpg);
     background-size: cover;
     background-position: left;
     background-repeat: no-repeat;
 
 }
 .three{
-    background-image:url(/images/b4.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
 }
 .four{
-    background-image:url(/images/b5.jpg);
     background-size: cover;
     background-repeat: no-repeat;
 }
