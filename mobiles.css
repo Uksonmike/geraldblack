@@ -181,6 +181,19 @@
     font-size: .8rem;
     letter-spacing: .4rem;
 }
+
+.socials-two .icons ul{
+    display: flex;
+    margin-top: 1.2rem;
+    font-size: 1.3rem;
+    justify-content: center; 
+}
+
+.socials-two{
+    background-color: #fff;
+    height: 14rem;
+}
+
 .socials-two .icons ul li{
     margin: 0 .9rem;
     padding:0 .4rem;
