@@ -212,6 +212,9 @@ footer{
 footer .footer{
     font-size: .5rem;
 }
+footer .container .form .contact-me{
+    font-size: .5rem;
+}
 
 .copyright{
     font-size: .5rem;
