@@ -57,8 +57,8 @@
 } */
 
 #showcase .showcase-content .brand-text{
-    top: 9rem;
-    width: 16rem;
+    top: 8rem;
+    width: 13rem;
     font-size: .2rem;
     line-height: 1rem;
 }
@@ -110,23 +110,23 @@
 
 .p1{
     width:auto;
-    top: 5rem;
+    top: 2rem;
     left: unset;
 }
 .p2{
     width:auto;
-    top: 8rem;
+    top: 5rem;
     left: 0;
 }
 
 .p3{
     width:auto;
-    top: 17rem;
+    top: 10rem;
     left: 0;
 }
 .p4{
     width:auto;
-    top: 16rem;
+    top: 11rem;
     left: 0;
 }
 .btn{
