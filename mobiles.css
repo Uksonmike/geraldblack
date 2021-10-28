@@ -59,8 +59,8 @@
 #showcase .showcase-content .brand-text{
     top: 8rem;
     width: 13rem;
-    font-size: .2rem;
-    line-height: 1rem;
+    font-size: .4rem;
+    line-height: .6rem;
 }
 
 .show{
@@ -91,7 +91,7 @@
 .text{
     color: #fff;
     padding:1rem;
-    text-align: justifya;
+    text-align: unset;
     letter-spacing: .5rem;
     line-height: 1rem;
     font-size: .8rem;
@@ -115,18 +115,18 @@
 }
 .p2{
     width:auto;
-    top: 5rem;
+    top: 3rem;
     left: 0;
 }
 
 .p3{
     width:auto;
-    top: 10rem;
+    top: 5rem;
     left: 0;
 }
 .p4{
     width:auto;
-    top: 11rem;
+    top: 3rem;
     left: 0;
 }
 .btn{
@@ -137,6 +137,7 @@
     font-weight: unset;
     font-size: small;
     letter-spacing: 0px;
+    border-radius: 5px;
 }
 #partnership{
     position:relative;
