@@ -59,8 +59,9 @@
 #showcase .showcase-content .brand-text{
     top: 8rem;
     width: 14rem;
-    font-size: .4rem;
-    line-height: .8rem;
+    font-size: .3rem;
+    line-height: unset;
+    letter-spacing: 1px;
 }
 
 .show{
