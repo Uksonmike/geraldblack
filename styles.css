@@ -109,7 +109,7 @@ ul{
 
 #showcase{
     height: 610px;
-    background-image:url(/images/b5.jpg);
+    background-image:url(https://raw.githubusercontent.com/Uksonmike/geraldblack/main/images/b5.jpg);
     background-size: cover;
     background-position: center;
 }
@@ -196,27 +196,27 @@ ul{
 
 .show{
     height: 750px;
-    background-image:url(/images/b51.jpg);
+    background-image:url(https://raw.githubusercontent.com/Uksonmike/geraldblack/main/images/b51.jpg);
     background-size: cover;
     background-position: right;
 }
 .one{
-    background-image:url(/images/b2.jpg);
+    background-image:url(https://raw.githubusercontent.com/Uksonmike/geraldblack/main/images/b2.jpg);
     background-size: cover;
     background-position: center;
 }
 .two{
-    background-image:url(/images/b33.jpg);
+    background-image:url(https://raw.githubusercontent.com/Uksonmike/geraldblack/main/images/b33.jpg);
     background-size: cover;
     background-position: center;
 }
 .three{
-    background-image:url(/images/b4.jpg);
+    background-image:url(https://raw.githubusercontent.com/Uksonmike/geraldblack/main/images/b4.jpg);
     background-size: cover;
     background-position: center;
 }
 .four{
-    background-image:url(/images/b15.jpg);
+    background-image:url(https://raw.githubusercontent.com/Uksonmike/geraldblack/main/images/b15.jpg);
     background-size: cover;
     background-position: center;
 }
